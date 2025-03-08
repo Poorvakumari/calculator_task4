@@ -26,6 +26,9 @@ No additional setup is required. Simply open the `index.html` file in a browser 
 ## License
 This project is open-source and free to use.
 
+## View the live site  at 
+https://poorvakumari.github.io/calculator_task4/
+
 <img src="/output_images/image-1.png">
 <img src="/output_images/image-2.png">
 <img src="/output_images/image-3.png">
